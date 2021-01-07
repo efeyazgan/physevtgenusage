@@ -1,0 +1,10 @@
+Campaign                        HS06[hr]     Total Nevts       [HS06 sec/event]    <HS06 sec/event>
+---------                       ----------   ---------------   ----------------   -------------------
+RunIISummer19UL16GEN            42480812     919540000         166                 554
+RunIISummer19UL16wmLHEGEN       68456365     124993100         197                 191
+RunIISummer19UL17GEN            130965383    63208000          746                 375
+RunIISummer19UL17wmLHEGEN       133929057    216725500 	       223                 242
+RunIISummer19UL18GEN            275758279    107368000         1050                802
+RunIISummer19UL18wmLHEGEN       228734290    185331160         444                 335      
+								
+Note that The samples with HS06 = 0 above are excluded from the calculation
